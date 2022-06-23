@@ -43,7 +43,7 @@ export const RightBox = () =>{
                 </div>
                 <DeleteIcon className='deleteIcon' style={{fontSize:14}}/>
             </div>
-            <button className='addNewRule'>Add New Condition</button>
+            <button className='addNewRules'>Add New Condition</button>
             <hr style={{color:"#8c8b8b"}}/>
             <div className='labelInputCombo'>
                 <label className='labelButton'>Perform the following Action</label>
@@ -52,7 +52,8 @@ export const RightBox = () =>{
                     <input className='rightInputBoxes' type="text" placeholder='Start New App' />
                     <DeleteIcon className='deleteIcon' style={{fontSize:14,marginTop:20}}/>
                 </div>
-                
+                <hr style={{color:"#8c8b8b"}}/><br/>
+                <button className='addNewRules'>Add Another Action</button>
             </div>
         </div>
     )

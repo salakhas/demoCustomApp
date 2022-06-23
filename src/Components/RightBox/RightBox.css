@@ -105,10 +105,10 @@
     margin-top: 10px;
 }
 
-.addNewRule{
-    width: 200px;
+.addNewRules{
+    width: 170px;
+    margin-top: 10;
     margin-left: 30px;
-    margin-top: 10px;
     padding: 12px;
     border: 0px solid;
     background-color: #D8D9DB;
@@ -116,7 +116,7 @@
 
 .playIcon{
     color: #9898bb;
-    margin-right: -0px;
+    margin-right: -20px;
     margin-left: 30px;
 }
 .rightInputBoxes{
