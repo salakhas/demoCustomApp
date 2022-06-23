@@ -1,0 +1,63 @@
+.nav{
+    height: 60px;
+    display: flex;
+}
+
+.iconImg{
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    margin-top: 9px;
+    margin-left: 1.4%;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.navHeading{
+    font-size: 14px;
+    color: #767676;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.navSmallHeading{
+    font-size: 11.7px;
+    color: #b2bfc6;
+    margin-top: -13px;
+}
+.navBox{
+    margin-left: 10px;
+}
+.buttonRules{
+    color: rgb(46, 46, 46);
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 17px;
+    margin-left: 7px;
+}
+
+.rightSide{
+    width: 55%;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+
+.datePara{
+    font-size: 12px;
+    color:#afb0af;
+    margin-top: 17px;
+}
+
+.doneButton{
+    border: 0px solid;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin-top: 10px;
+    height: 35px;
+    color: #5d5d5d;
+    font-weight: 500;
+    font-size: 13px;
+    background-color: #d8dadb;
+}

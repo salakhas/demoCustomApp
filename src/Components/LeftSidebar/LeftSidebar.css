@@ -1,0 +1,79 @@
+.backToStages{
+    display: flex;
+}
+.btsPara{
+    color: rgb(46, 46, 46);
+    font-size: 14px;
+    font-weight: 600;
+}
+.backArrowBts{
+    margin-left: 5px;
+    margin-top: 17px;
+    margin-right: 5px;
+}
+
+
+.boxStepper{
+    width:85%;
+    margin: auto;
+    margin-top: 70px;
+    height: fit-content;
+}
+
+.rules{
+    font-size: 14px;
+    color: #767676;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.innerBoxStepper{
+    width: 90%;
+    margin: auto;
+    border-left: 1.5px solid #D8D9DB;
+}
+.inputDiv{
+    display: flex;
+}
+
+
+.dotIcon1{
+    font-size: 14px;
+    color: #D8D9DB;
+    margin-top: -5px;
+    margin-left: -8px;
+}
+.dotIconOther{
+    font-size: 14px;
+    color: #D8D9DB;
+    margin-top: 17px;
+    margin-left: -8px;
+}
+
+.distance{
+    margin-top: 25px;
+}
+
+
+.inputBoxSideBar1{
+    width: 80%;
+    margin-left: 15px;
+    margin-top: -20px;
+    padding: 12px;
+    color: #767676;
+}
+
+.inputBoxSideBarOther{
+    width: 80%;
+    margin-left: 15px;
+    padding: 12px;
+    color: #767676;
+}
+
+.addNewRule{
+    width: 90%;
+    margin-left: 15px;
+    padding: 12px;
+    border: 0px solid;
+    background-color: #D8D9DB;
+}

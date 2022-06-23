@@ -1,0 +1,130 @@
+.rightBox{
+    margin: 5;
+    width: 97%;
+    background-color: #fbf9f9;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.MainDefaultHeading{
+    font-size: 17px;
+    margin-left: 30px;
+}
+
+.labelButton{
+    margin-left: 30px;
+    color: rgb(46, 46, 46);
+    font-size: 14px;
+    font-weight: 600;
+}
+.labelInputCombo{
+    display: flex;
+    flex-direction: column;
+}
+
+.rightInputBox1{
+    font-size: 16px;
+    padding: 10px;
+    width: 20%;
+    border: 0px solid;
+    color: black;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+.ifAllPara{
+    font-size: 16px;
+    color: #8c8b8b;
+}
+
+.selecttag{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+    border: 0px solid;
+    margin-top: 10px;
+}
+
+.ifAllSelect{
+    margin-left: 30px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.flexListInput{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.select1{
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    margin-right: 10px;
+    border: 0px solid;
+}
+.select2{
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 40px;
+    margin-right: 10px;
+    border: 0px solid;
+}
+.listInput{
+    width: 50%;
+    padding: 5px;
+    background-color: white;
+    display: flex;
+}
+
+.deleteIcon{
+    color: white;
+    background-color: #d16e00;
+    border-radius: 50%;
+    padding: 3px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.listItem{
+    background-color: #f6f6f6;
+    text-align: left;
+}
+
+.paraList{
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    font-weight: 600;
+}
+
+.closeIcon{
+    color: rgb(169, 169, 169);
+    margin-left: -22px;
+    margin-top: 10px;
+}
+
+.addNewRule{
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 12px;
+    border: 0px solid;
+    background-color: #D8D9DB;
+}
+
+.playIcon{
+    color: #9898bb;
+    margin-right: -0px;
+    margin-left: 30px;
+}
+.rightInputBoxes{
+    font-size: 16px;
+    padding: 10px;
+    width: 20%;
+    border: 0px solid;
+    color: black;
+    margin-top: 10px;
+    text-align: center;
+}
